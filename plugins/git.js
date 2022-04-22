@@ -17,18 +17,18 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `ᴀͥᴩͭᴩᷤᴜꜱᷟᴇͤʀ💙
 
 *bot making video* : https://youtu.be/jF8wF1KdyOw
 
 
-*owner number husni* :https://wa.me/917025868709.
+*Bot number * :https://wa.me/79819726542.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
+*owner number Nijin* :https://wa.me/919400296608.
 
 
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*owner id instagram* :https://instagram.com/mr_karippelil_boss.
 
 
 *github* : https://github.com/nijin-husni/Maalutty.
@@ -38,8 +38,8 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 
 *sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
 ■□■□■□■□■□■□■□■□■□■□
-❤️Maalutty💙
-▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
+ᴀͥᴩͭᴩᷤᴜꜱᷟᴇͤʀ 🤍
+▣▣ ~ᴀͥᴩͭᴩᷤᴜꜱᷟᴇͤʀ~ ▣▣
 
 `}) 
 
